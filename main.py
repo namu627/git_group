@@ -1,3 +1,9 @@
+
+import cart
+
+def main():
+	return cart.cart()
+
 import hate
 
 def main():
